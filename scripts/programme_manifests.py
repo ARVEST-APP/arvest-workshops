@@ -3,14 +3,12 @@ from jhutils.local_files import get_image_info, write_json, collect_files
 import os
 from PIL import Image
 
-SOURCE_FOLDER = "resources/imgs/programmes/Avignon1995"
-OUTPUT_FOLDER = os.path.join(os.getcwd(), "resources", "manifests", "programmes")
-MANIFEST_FILE_NAME = "Avignon1995"
-ID_PREFIX = "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main"
+SOURCE_FOLDER = "resources/imgs/programmes/Programme2023"
+MANIFEST_FILE_NAME = "Programme2023"
 MANIFEST_DATA = {
-    "name" : "Avignon 1995",
+    "name" : "Programme 2023",
     "metadata" : [
-        {"label":{"en":["Year"]},"value":{"en":["1995"]}}
+        {"label":{"en":["Year"]},"value":{"en":["2023"]}}
     ],
     "logo" : {
         "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
@@ -28,6 +26,9 @@ MANIFEST_DATA = {
       "homepage": [{"id": "https://www.univ-rennes2.fr/","type": "Text","label": {"en": ["Rennes 2 University"]},"format": "text/html"}]
     }]
 }
+
+OUTPUT_FOLDER = os.path.join(os.getcwd(), "resources", "manifests", "programmes")
+ID_PREFIX = "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main"
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 

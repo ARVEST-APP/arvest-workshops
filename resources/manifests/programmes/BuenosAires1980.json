@@ -1,0 +1,590 @@
+{
+    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Buenos Aires 1980"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1980"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Rennes 2 University"
+            ]
+        }
+    },
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": [
+        {
+            "id": "https://www.univ-rennes2.fr/",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Rennes 2 University"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://www.univ-rennes2.fr/",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "Rennes 2 University"
+                        ]
+                    },
+                    "format": "text/html",
+                    "language": null
+                }
+            ],
+            "logo": null,
+            "seeAlso": null
+        }
+    ],
+    "seeAlso": null,
+    "thumbnail": [
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_2.jpg",
+            "type": "Image",
+            "height": 128,
+            "width": 45,
+            "duration": null,
+            "language": null,
+            "rendering": null,
+            "service": null,
+            "format": "image/jpg",
+            "label": null,
+            "thumbnail": null,
+            "annotations": null
+        }
+    ],
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Buenos Aires 1980 (page 1)"
+                ]
+            },
+            "height": 3307,
+            "width": 1175,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_2.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 45,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_2.png",
+                                "type": "Image",
+                                "height": 3307,
+                                "width": 1175,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/1#xywh=0,0,1175,3307"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Buenos Aires 1980 (page 2)"
+                ]
+            },
+            "height": 3307,
+            "width": 1175,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_3.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 45,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_3.png",
+                                "type": "Image",
+                                "height": 3307,
+                                "width": 1175,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/2#xywh=0,0,1175,3307"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Buenos Aires 1980 (page 3)"
+                ]
+            },
+            "height": 3307,
+            "width": 1175,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_1.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 45,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_1.png",
+                                "type": "Image",
+                                "height": 3307,
+                                "width": 1175,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/3#xywh=0,0,1175,3307"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Buenos Aires 1980 (page 4)"
+                ]
+            },
+            "height": 3307,
+            "width": 1175,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_4.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 45,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_4.png",
+                                "type": "Image",
+                                "height": 3307,
+                                "width": 1175,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/4#xywh=0,0,1175,3307"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Buenos Aires 1980 (page 5)"
+                ]
+            },
+            "height": 3307,
+            "width": 1164,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_5.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 45,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_5.png",
+                                "type": "Image",
+                                "height": 3307,
+                                "width": 1164,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/5#xywh=0,0,1164,3307"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Buenos Aires 1980 (page 6)"
+                ]
+            },
+            "height": 3307,
+            "width": 1175,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_6.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 45,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_6.png",
+                                "type": "Image",
+                                "height": 3307,
+                                "width": 1175,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/BuenosAires1980/canvas/6#xywh=0,0,1175,3307"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        }
+    ],
+    "structures": null,
+    "annotations": null,
+    "logo": {
+        "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 225,
+        "width": 225
+    }
+}
