@@ -60,7 +60,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Avignon 1995 page 1"
+                    "Avignon 1995 (page 1)"
                 ]
             },
             "height": 2480,
@@ -141,7 +141,7 @@
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Avignon 1995 page 2"
+                    "Avignon 1995 (page 2)"
                 ]
             },
             "height": 2480,
@@ -219,5 +219,12 @@
         }
     ],
     "structures": null,
-    "annotations": null
+    "annotations": null,
+    "logo": {
+        "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 225,
+        "width": 225
+    }
 }

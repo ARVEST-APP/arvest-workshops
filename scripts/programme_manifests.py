@@ -11,7 +11,14 @@ MANIFEST_DATA = {
     "name" : "Avignon 1995",
     "metadata" : [
         {"label":{"en":["Year"]},"value":{"en":["1995"]}}
-    ]
+    ],
+    "logo" : {
+        "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 225,
+        "width": 225
+    }
 }
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
@@ -49,7 +56,7 @@ for i, image_file in enumerate(image_files):
 
     can = iiif_prezi3.Canvas(
         id = os.path.join(ID_PREFIX, "resources", "manifests", "programmes", MANIFEST_FILE_NAME, "canvas", str(i + 1)),
-        label = {"en":[f"{MANIFEST_DATA['name']} page {str(i + 1)}"]},
+        label = {"en":[f"{MANIFEST_DATA['name']} (page {str(i + 1)})"]},
         width = source_info["width"],
         height = source_info["height"]
     )
@@ -76,4 +83,7 @@ for i, image_file in enumerate(image_files):
     can.items.append(anpa)
     man.items.append(can)
 
-write_json(os.path.join(OUTPUT_FOLDER, f"{MANIFEST_FILE_NAME}.json"), man.dict())
+man_as_dict = man.dict()
+man_as_dict["logo"] = MANIFEST_DATA["logo"]
+
+write_json(os.path.join(OUTPUT_FOLDER, f"{MANIFEST_FILE_NAME}.json"), man_as_dict)
