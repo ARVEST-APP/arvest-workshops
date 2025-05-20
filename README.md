@@ -10,7 +10,7 @@ Are you going to participate in an Arvest workshop? To make the most of our time
 
 ## ✉️ Feedback
 
-There are many ways you can provide feedback both on the workshop or on the tool. If you wish you can open an issue on this repo [here](https://github.com/ARVEST-APP/arvest-workshops/issues). You can also get in touch directy with us via [contact@arvest.app](contact@arvest.app).
+There are many ways you can provide feedback both on the workshop or on the tool. If you wish you can open an issue on this repo [here](https://github.com/ARVEST-APP/arvest-workshops/issues). You can also get in touch directy with us via [contact@arvest.app](mailto:contact@arvest.app).
 
 ## 📽️ Slides
 

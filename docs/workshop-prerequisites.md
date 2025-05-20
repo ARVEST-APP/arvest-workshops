@@ -13,7 +13,7 @@ Account creation is the part that takes the most time in a workshop setting. If 
 - You will recieve an email asking you to confirm your email. Click on the url provided.
 - You will need to accept the terms of use on the page you will be sent to.
 
-You're all set! If you have any problems, please let us know - you can contact us via [contact@arvest.app](contact@arvest.app).
+You're all set! If you have any problems, please let us know - you can contact us via [contact@arvest.app](mailto:contact@arvest.app).
 
 ## 2. 📼 Watch the quickstart video
 
@@ -28,6 +28,6 @@ During the workshop we will provide you with some example media to have a play w
 
 ## 4. 👩‍🎨 Experiment!
 
-You are of course welcome to experiment as much as you want ahead of the workshop! You'll learn best by doing, so get stuck in! If you run into difficulties, make a note of it and we can chat it out during the workshop, or get in touch with us at [contact@arvest.app](contact@arvest.app).
+You are of course welcome to experiment as much as you want ahead of the workshop! You'll learn best by doing, so get stuck in! If you run into difficulties, make a note of it and we can chat it out during the workshop, or get in touch with us at [contact@arvest.app](mailto:contact@arvest.app).
 
 **👋 See you at the workshop!**
