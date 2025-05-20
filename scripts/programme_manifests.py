@@ -1,8 +1,79 @@
 import iiif_prezi3
-from jhutils.local_files import get_image_info, write_json
+from jhutils.local_files import get_image_info, write_json, collect_files
 import os
+from PIL import Image
 
-SOURCE_FOLDER = "/Users/jacob/Documents/Repos/ARVEST-APP/arvest-workshops/resources/imgs/programmes/Avignon1995"
-OUTPUT = os.path.join(os.getcwd(), "resouces", "manifests", "programmes", "Avignon1995.json")
+SOURCE_FOLDER = "resources/imgs/programmes/Avignon1995"
+OUTPUT_FOLDER = os.path.join(os.getcwd(), "resources", "manifests", "programmes")
+MANIFEST_FILE_NAME = "Avignon1995"
+ID_PREFIX = "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main"
+MANIFEST_DATA = {
+    "name" : "Avignon 1995",
+    "metadata" : [
+        {"label":{"en":["Year"]},"value":{"en":["1995"]}}
+    ]
+}
 
-os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
+man = iiif_prezi3.Manifest(
+    id = os.path.join(ID_PREFIX, "resources", "manifests", "programmes", f"{MANIFEST_FILE_NAME}.json"),
+    label = {"en" : [MANIFEST_DATA["name"]]}
+)
+man.metadata = MANIFEST_DATA["metadata"]
+
+# make thumbnails:
+image_files = collect_files(os.path.join(os.getcwd(), SOURCE_FOLDER), ["png"])
+os.makedirs(os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails"), exist_ok=True)
+first_thumb = None
+for i, image_file in enumerate(image_files):
+    img = Image.open(image_file)
+    file_name = os.path.splitext(os.path.basename(image_file))[0]
+    thumbnail_size = (128, 128)
+    img.thumbnail(thumbnail_size)
+    img.save(os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails", f"{file_name}.jpg"))
+    if i == 0:
+        first_thumb = f"{file_name}.jpg"
+thumb_info = get_image_info(os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails", first_thumb))
+man.thumbnail = [{"id" : os.path.join(ID_PREFIX, SOURCE_FOLDER, "thumbnails", first_thumb), "type" : "Image", "format" : "image/jpg", "width" : thumb_info["width"], "height" : thumb_info["height"]}]
+
+# Add pages:
+for i, image_file in enumerate(image_files):
+    base_name = os.path.basename(image_file)
+    file_name = os.path.splitext(base_name)[0]
+    thumbnail_url = os.path.join(ID_PREFIX, SOURCE_FOLDER, "thumbnails", f"{file_name}.jpg")
+    thumbnail_path = os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails", f"{file_name}.jpg")
+    
+    source_info = get_image_info(image_file)
+    thumbnail_info = get_image_info(thumbnail_path)
+
+    can = iiif_prezi3.Canvas(
+        id = os.path.join(ID_PREFIX, "resources", "manifests", "programmes", MANIFEST_FILE_NAME, "canvas", str(i + 1)),
+        label = {"en":[f"{MANIFEST_DATA['name']} page {str(i + 1)}"]},
+        width = source_info["width"],
+        height = source_info["height"]
+    )
+    can.thumbnail = [{"id" : thumbnail_url, "type" : "Image", "format" : "image/jpg", "width" : thumbnail_info["width"], "height" : thumbnail_info["height"]}]
+
+    anpa = iiif_prezi3.AnnotationPage(
+        id = os.path.join(ID_PREFIX, "resources", "manifests", "programmes", MANIFEST_FILE_NAME, "canvas", str(i + 1), "page", "1")
+    )
+
+    an = iiif_prezi3.Annotation(
+        id = os.path.join(ID_PREFIX, "resources", "manifests", "programmes", MANIFEST_FILE_NAME, "canvas", str(i + 1), "page", "1", "1"),
+        motivation = "painting",
+        target = os.path.join(ID_PREFIX, "resources", "manifests", "programmes", MANIFEST_FILE_NAME, "canvas", str(i + 1)) + f"#xywh=0,0,{source_info['width']},{source_info['height']}"
+    )
+    an.body = {
+        "id" : os.path.join(ID_PREFIX, SOURCE_FOLDER, os.path.basename(image_file)),
+        "type" : "Image",
+        "width" : source_info["width"],
+        "height" : source_info["height"],
+        "format" : "image/png"
+    }
+
+    anpa.items.append(an)
+    can.items.append(anpa)
+    man.items.append(can)
+
+write_json(os.path.join(OUTPUT_FOLDER, f"{MANIFEST_FILE_NAME}.json"), man.dict())

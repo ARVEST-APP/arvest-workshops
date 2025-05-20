@@ -1,0 +1,223 @@
+{
+    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Avignon 1995"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1995"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": null,
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": null,
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": null,
+    "seeAlso": null,
+    "thumbnail": [
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/Avignon1995/thumbnails/Avignon1995_page_1.jpg",
+            "type": "Image",
+            "height": 86,
+            "width": 128,
+            "duration": null,
+            "language": null,
+            "rendering": null,
+            "service": null,
+            "format": "image/jpg",
+            "label": null,
+            "thumbnail": null,
+            "annotations": null
+        }
+    ],
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Avignon 1995 page 1"
+                ]
+            },
+            "height": 2480,
+            "width": 3692,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/Avignon1995/thumbnails/Avignon1995_page_1.jpg",
+                    "type": "Image",
+                    "height": 86,
+                    "width": 128,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/Avignon1995/Avignon1995_page_1.png",
+                                "type": "Image",
+                                "height": 2480,
+                                "width": 3692,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/1#xywh=0,0,3692,2480"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Avignon 1995 page 2"
+                ]
+            },
+            "height": 2480,
+            "width": 3692,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/Avignon1995/thumbnails/Avignon1995_page_2.jpg",
+                    "type": "Image",
+                    "height": 86,
+                    "width": 128,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/Avignon1995/Avignon1995_page_2.png",
+                                "type": "Image",
+                                "height": 2480,
+                                "width": 3692,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/Avignon1995/canvas/2#xywh=0,0,3692,2480"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        }
+    ],
+    "structures": null,
+    "annotations": null
+}
