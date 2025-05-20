@@ -18,7 +18,15 @@ MANIFEST_DATA = {
         "format": "image/png",
         "height": 225,
         "width": 225
-    }
+    },
+    "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "requiredStatement": {"label": {"en": ["Attribution"]},"value": {"en": ["Rennes 2 University"]}},
+    "provider": [{
+      "id": "https://www.univ-rennes2.fr/",
+      "type": "Agent",
+      "label": {"en": ["Rennes 2 University"]},
+      "homepage": [{"id": "https://www.univ-rennes2.fr/","type": "Text","label": {"en": ["Rennes 2 University"]},"format": "text/html"}]
+    }]
 }
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
@@ -28,6 +36,9 @@ man = iiif_prezi3.Manifest(
     label = {"en" : [MANIFEST_DATA["name"]]}
 )
 man.metadata = MANIFEST_DATA["metadata"]
+man.rights = MANIFEST_DATA["rights"]
+man.requiredStatement = MANIFEST_DATA["requiredStatement"]
+man.provider = MANIFEST_DATA["provider"]
 
 # make thumbnails:
 image_files = collect_files(os.path.join(os.getcwd(), SOURCE_FOLDER), ["png"])

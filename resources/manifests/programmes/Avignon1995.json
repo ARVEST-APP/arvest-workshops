@@ -22,18 +22,54 @@
         }
     ],
     "summary": null,
-    "requiredStatement": null,
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Rennes 2 University"
+            ]
+        }
+    },
     "rendering": null,
     "service": null,
     "services": null,
     "viewingDirection": null,
     "placeholderCanvas": null,
     "accompanyingCanvas": null,
-    "rights": null,
+    "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
     "start": null,
     "navDate": null,
     "navPlace": null,
-    "provider": null,
+    "provider": [
+        {
+            "id": "https://www.univ-rennes2.fr/",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Rennes 2 University"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://www.univ-rennes2.fr/",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "Rennes 2 University"
+                        ]
+                    },
+                    "format": "text/html",
+                    "language": null
+                }
+            ],
+            "logo": null,
+            "seeAlso": null
+        }
+    ],
     "seeAlso": null,
     "thumbnail": [
         {
