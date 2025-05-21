@@ -29,7 +29,7 @@ If you wish, you can watch the ten minute quickstart guide video [here](https://
 
 ## 4. 🗂️ Prepare some media
 
-During the workshop we will provide you with some example media to have a play with, however if you wish to use your own media that's also great! To make things fluid, try and upload you media to the web ahead of the workshop, especially large audiovisual files.
+During the workshop we will provide you with some example media to have a play with (you can download it [here](https://github.com/ARVEST-APP/arvest-workshops/raw/main/resources/workshop-dl-media.zip)), however if you wish to use your own media that's also great! To make things fluid, try and upload you media to the web ahead of the workshop, especially large audiovisual files.
 
 - You can upload **images** directly to your Arvest accoutn, or find some images which are available by direct link online.
 - You can upload **videos** to [youtube](https://www.youtube.com/) or out instance of [peertube](https://peertube.arvest.app/) (you will need to create a peertube account for this).
