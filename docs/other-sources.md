@@ -4,8 +4,8 @@
 - Generals: [https://gallica.bnf.fr/ark:/12148/btv1b550143172.r=programme%20festival%20d%27avignon%201995?rk=21459;2](https://gallica.bnf.fr/ark:/12148/btv1b550143172.r=programme%20festival%20d%27avignon%201995?rk=21459;2)
 
 ## Articles 
--[La Vilette Paris article 1](https://magazine.cnd.fr/en/posts/133-the-lasting-impressions-of-cafe-muller)
--[La Vilette Paris article 2](https://forallevents.com/reviews/cafe-muller-choreographed-by-pina-bausch-in-paris/)
+- [La Vilette Paris article 1](https://magazine.cnd.fr/en/posts/133-the-lasting-impressions-of-cafe-muller)
+- [La Vilette Paris article 2](https://forallevents.com/reviews/cafe-muller-choreographed-by-pina-bausch-in-paris/)
 
 ## Complete Show 
 - Avignon 1995: [https://www.pinabausch.org/fr/archives/video/cafe_19950710_01_0001](https://www.pinabausch.org/fr/archives/video/cafe_19950710_01_0001)
