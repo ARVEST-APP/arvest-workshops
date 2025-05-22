@@ -19,6 +19,18 @@
                     "2008"
                 ]
             }
+        },
+        {
+            "label": {
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Italian"
+                ]
+            }
         }
     ],
     "summary": null,

@@ -19,6 +19,18 @@
                     "1985"
                 ]
             }
+        },
+        {
+            "label": {
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "en": [
+                    "German"
+                ]
+            }
         }
     ],
     "summary": null,

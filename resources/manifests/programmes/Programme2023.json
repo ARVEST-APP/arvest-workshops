@@ -19,6 +19,18 @@
                     "2023"
                 ]
             }
+        },
+        {
+            "label": {
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "en": [
+                    "French"
+                ]
+            }
         }
     ],
     "summary": null,
