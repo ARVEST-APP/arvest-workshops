@@ -3,12 +3,12 @@ from jhutils.local_files import get_image_info, write_json, collect_files
 import os
 from PIL import Image
 
-SOURCE_FOLDER = "resources/imgs/programmes/Programme1985"
-MANIFEST_FILE_NAME = "Programme1985"
+SOURCE_FOLDER = "resources/imgs/programmes/Programme2023"
+MANIFEST_FILE_NAME = "Programme2023"
 MANIFEST_DATA = {
-    "name" : "Programme 1985",
+    "name" : "Programme 2023",
     "metadata" : [
-        {"label":{"en":["Year"]},"value":{"en":["1985"]}}
+        {"label":{"en":["Year"]},"value":{"en":["2023"]}}
     ],
     "logo" : {
         "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
@@ -43,6 +43,7 @@ man.provider = MANIFEST_DATA["provider"]
 
 # make thumbnails:
 image_files = collect_files(os.path.join(os.getcwd(), SOURCE_FOLDER), ["png"])
+image_files = sorted(image_files)
 os.makedirs(os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails"), exist_ok=True)
 first_thumb = None
 for i, image_file in enumerate(image_files):
