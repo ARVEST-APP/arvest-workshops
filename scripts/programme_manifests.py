@@ -2,13 +2,14 @@ import iiif_prezi3
 from jhutils.local_files import get_image_info, write_json, collect_files
 import os
 from PIL import Image
+import re
 
-SOURCE_FOLDER = "resources/imgs/programmes/Programme2023"
-MANIFEST_FILE_NAME = "Programme2023"
+SOURCE_FOLDER = "resources/imgs/programmes/Programme2008"
+MANIFEST_FILE_NAME = "Programme2008"
 MANIFEST_DATA = {
-    "name" : "Programme 2023",
+    "name" : "Programme 2008",
     "metadata" : [
-        {"label":{"en":["Year"]},"value":{"en":["2023"]}}
+        {"label":{"en":["Year"]},"value":{"en":["2008"]}}
     ],
     "logo" : {
         "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
@@ -30,6 +31,13 @@ MANIFEST_DATA = {
 OUTPUT_FOLDER = os.path.join(os.getcwd(), "resources", "manifests", "programmes")
 ID_PREFIX = "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main"
 
+def natural_sort_key(s):
+    # Split string into list of strings and integers for proper sorting
+    return [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', s)]
+
+def sort_filenames_naturally(filenames):
+    return sorted(filenames, key=natural_sort_key)
+
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 man = iiif_prezi3.Manifest(
@@ -43,7 +51,7 @@ man.provider = MANIFEST_DATA["provider"]
 
 # make thumbnails:
 image_files = collect_files(os.path.join(os.getcwd(), SOURCE_FOLDER), ["png"])
-image_files = sorted(image_files)
+image_files = sort_filenames_naturally(image_files)
 os.makedirs(os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails"), exist_ok=True)
 first_thumb = None
 for i, image_file in enumerate(image_files):
@@ -61,7 +69,6 @@ thumb_info = get_image_info(os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails
 __thumb_url = os.path.join(ID_PREFIX, SOURCE_FOLDER, "thumbnails", first_thumb)
 
 print()
-print(os.path.join(ID_PREFIX))
 print(__thumb_url)
 print()
 
