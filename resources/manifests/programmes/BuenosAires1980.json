@@ -73,7 +73,7 @@
     "seeAlso": null,
     "thumbnail": [
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_2.jpg",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_1.jpg",
             "type": "Image",
             "height": 128,
             "width": 45,
@@ -116,7 +116,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_2.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_1.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 45,
@@ -152,7 +152,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_2.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_1.png",
                                 "type": "Image",
                                 "height": 3307,
                                 "width": 1175,
@@ -197,7 +197,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_3.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_2.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 45,
@@ -233,7 +233,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_3.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_2.png",
                                 "type": "Image",
                                 "height": 3307,
                                 "width": 1175,
@@ -278,7 +278,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_1.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/thumbnails/BuenosAires1980_page_3.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 45,
@@ -314,7 +314,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_1.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/BuenosAires1980/BuenosAires1980_page_3.png",
                                 "type": "Image",
                                 "height": 3307,
                                 "width": 1175,

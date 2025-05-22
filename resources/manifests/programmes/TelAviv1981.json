@@ -73,10 +73,10 @@
     "seeAlso": null,
     "thumbnail": [
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_63.jpg",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_1.jpg",
             "type": "Image",
             "height": 128,
-            "width": 100,
+            "width": 102,
             "duration": null,
             "language": null,
             "rendering": null,
@@ -100,7 +100,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2493,
+            "width": 2539,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -116,10 +116,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_63.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_1.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 100,
+                    "width": 102,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -152,10 +152,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_63.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_1.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2493,
+                                "width": 2539,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -165,7 +165,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/1#xywh=0,0,2493,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/1#xywh=0,0,2539,3189"
                         }
                     ]
                 }
@@ -181,7 +181,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2523,
+            "width": 2539,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -197,10 +197,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_5.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_2.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 101,
+                    "width": 102,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -233,10 +233,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_5.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_2.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2523,
+                                "width": 2539,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -246,7 +246,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/2#xywh=0,0,2523,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/2#xywh=0,0,2539,3189"
                         }
                     ]
                 }
@@ -259,6 +259,87 @@
             "label": {
                 "en": [
                     "Tel Aviv 1981 (page 3)"
+                ]
+            },
+            "height": 3189,
+            "width": 2539,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_3.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 102,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_3.png",
+                                "type": "Image",
+                                "height": 3189,
+                                "width": 2539,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/3#xywh=0,0,2539,3189"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Tel Aviv 1981 (page 4)"
                 ]
             },
             "height": 3189,
@@ -297,7 +378,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/3/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -306,7 +387,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/3/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -327,88 +408,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/3#xywh=0,0,2539,3189"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Tel Aviv 1981 (page 4)"
-                ]
-            },
-            "height": 3189,
-            "width": 2493,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_62.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 100,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_62.png",
-                                "type": "Image",
-                                "height": 3189,
-                                "width": 2493,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4#xywh=0,0,2493,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/4#xywh=0,0,2539,3189"
                         }
                     ]
                 }
@@ -424,7 +424,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2500,
+            "width": 2523,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -440,10 +440,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_48.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_5.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 100,
+                    "width": 101,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -476,10 +476,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_48.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_5.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2500,
+                                "width": 2523,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -489,7 +489,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/5#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/5#xywh=0,0,2523,3189"
                         }
                     ]
                 }
@@ -502,87 +502,6 @@
             "label": {
                 "en": [
                     "Tel Aviv 1981 (page 6)"
-                ]
-            },
-            "height": 3189,
-            "width": 2500,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_60.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 100,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/6/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/6/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_60.png",
-                                "type": "Image",
-                                "height": 3189,
-                                "width": 2500,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/6#xywh=0,0,2500,3189"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/7",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Tel Aviv 1981 (page 7)"
                 ]
             },
             "height": 3189,
@@ -621,6 +540,87 @@
             "partOf": null,
             "items": [
                 {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_6.png",
+                                "type": "Image",
+                                "height": 3189,
+                                "width": 2523,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/6#xywh=0,0,2523,3189"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Tel Aviv 1981 (page 7)"
+                ]
+            },
+            "height": 3189,
+            "width": 2523,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_7.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 101,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
                     "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/7/page/1",
                     "type": "AnnotationPage",
                     "label": null,
@@ -638,7 +638,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_6.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_7.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2523,
@@ -683,7 +683,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_7.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_8.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 101,
@@ -719,7 +719,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_7.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_8.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2523,
@@ -764,7 +764,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_61.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_9.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -800,7 +800,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_61.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_9.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -845,7 +845,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_49.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_10.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -881,7 +881,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_49.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_10.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -926,7 +926,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_59.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_11.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -962,7 +962,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_59.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_11.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -991,7 +991,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2539,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1007,10 +1007,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_3.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_12.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 102,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -1043,10 +1043,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_3.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_12.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2539,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -1056,7 +1056,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/12#xywh=0,0,2539,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/12#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -1072,7 +1072,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2539,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1088,10 +1088,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_2.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_13.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 102,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -1124,10 +1124,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_2.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_13.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2539,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -1137,7 +1137,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/13#xywh=0,0,2539,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/13#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -1169,7 +1169,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_58.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_14.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1205,7 +1205,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_58.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_14.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1234,7 +1234,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2493,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1250,7 +1250,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_64.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_15.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1286,10 +1286,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_64.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_15.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2493,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -1299,7 +1299,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/15#xywh=0,0,2493,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/15#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -1315,7 +1315,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2539,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1331,10 +1331,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_1.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_16.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 102,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -1367,10 +1367,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_1.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_16.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2539,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -1380,7 +1380,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/16#xywh=0,0,2539,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/16#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -1412,7 +1412,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_28.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_17.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1448,7 +1448,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_28.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_17.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1493,7 +1493,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_14.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_18.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1529,7 +1529,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_14.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_18.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1574,7 +1574,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_15.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_19.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1610,7 +1610,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_15.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_19.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1655,7 +1655,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_29.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_20.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1691,7 +1691,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_29.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_20.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1736,7 +1736,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_17.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_21.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1772,7 +1772,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_17.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_21.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1817,7 +1817,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_16.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_22.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1853,7 +1853,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_16.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_22.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1898,7 +1898,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_12.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_23.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -1934,7 +1934,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_12.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_23.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -1979,7 +1979,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_13.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_24.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -2015,7 +2015,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_13.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_24.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -2060,7 +2060,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_11.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_25.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -2096,7 +2096,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_11.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_25.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -2125,7 +2125,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2523,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -2141,10 +2141,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_39.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_26.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 101,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -2177,10 +2177,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_39.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_26.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2523,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -2190,7 +2190,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/26#xywh=0,0,2523,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/26#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -2206,7 +2206,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2523,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -2222,10 +2222,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_38.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_27.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 101,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -2258,10 +2258,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_38.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_27.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2523,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -2271,7 +2271,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/27#xywh=0,0,2523,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/27#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -2303,7 +2303,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_10.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_28.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -2339,7 +2339,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_10.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_28.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -2384,7 +2384,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_21.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_29.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -2420,7 +2420,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_21.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_29.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -2449,7 +2449,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2523,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -2465,10 +2465,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_35.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_30.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 101,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -2501,10 +2501,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_35.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_30.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2523,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -2514,7 +2514,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/30#xywh=0,0,2523,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/30#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -2546,7 +2546,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_34.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_31.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -2582,7 +2582,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_34.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_31.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -2627,7 +2627,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_20.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_32.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -2663,7 +2663,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_20.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_32.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -2689,330 +2689,6 @@
             "label": {
                 "en": [
                     "Tel Aviv 1981 (page 33)"
-                ]
-            },
-            "height": 3189,
-            "width": 2507,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_36.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 101,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/33/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/33/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_36.png",
-                                "type": "Image",
-                                "height": 3189,
-                                "width": 2507,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/33#xywh=0,0,2507,3189"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Tel Aviv 1981 (page 34)"
-                ]
-            },
-            "height": 3189,
-            "width": 2500,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_22.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 100,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_22.png",
-                                "type": "Image",
-                                "height": 3189,
-                                "width": 2500,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34#xywh=0,0,2500,3189"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Tel Aviv 1981 (page 35)"
-                ]
-            },
-            "height": 3189,
-            "width": 2500,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_23.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 100,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_23.png",
-                                "type": "Image",
-                                "height": 3189,
-                                "width": 2500,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35#xywh=0,0,2500,3189"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Tel Aviv 1981 (page 36)"
-                ]
-            },
-            "height": 3189,
-            "width": 2523,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_37.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 101,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_37.png",
-                                "type": "Image",
-                                "height": 3189,
-                                "width": 2523,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36#xywh=0,0,2523,3189"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Tel Aviv 1981 (page 37)"
                 ]
             },
             "height": 3189,
@@ -3051,7 +2727,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/33/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -3060,7 +2736,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/33/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -3081,7 +2757,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/33#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -3089,11 +2765,11 @@
             "annotations": null
         },
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/38",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34",
             "type": "Canvas",
             "label": {
                 "en": [
-                    "Tel Aviv 1981 (page 38)"
+                    "Tel Aviv 1981 (page 34)"
                 ]
             },
             "height": 3189,
@@ -3113,10 +2789,334 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_27.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_34.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_34.png",
+                                "type": "Image",
+                                "height": 3189,
+                                "width": 2500,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/34#xywh=0,0,2500,3189"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Tel Aviv 1981 (page 35)"
+                ]
+            },
+            "height": 3189,
+            "width": 2523,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_35.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 101,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_35.png",
+                                "type": "Image",
+                                "height": 3189,
+                                "width": 2523,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/35#xywh=0,0,2523,3189"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Tel Aviv 1981 (page 36)"
+                ]
+            },
+            "height": 3189,
+            "width": 2507,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_36.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 101,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_36.png",
+                                "type": "Image",
+                                "height": 3189,
+                                "width": 2507,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/36#xywh=0,0,2507,3189"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Tel Aviv 1981 (page 37)"
+                ]
+            },
+            "height": 3189,
+            "width": 2523,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_37.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 101,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_37.png",
+                                "type": "Image",
+                                "height": 3189,
+                                "width": 2523,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/37#xywh=0,0,2523,3189"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/38",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Tel Aviv 1981 (page 38)"
+                ]
+            },
+            "height": 3189,
+            "width": 2523,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_38.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 101,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -3149,10 +3149,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_27.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_38.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2500,
+                                "width": 2523,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -3162,7 +3162,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/38#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/38#xywh=0,0,2523,3189"
                         }
                     ]
                 }
@@ -3178,7 +3178,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2500,
+            "width": 2523,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -3194,10 +3194,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_26.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_39.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 100,
+                    "width": 101,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -3230,10 +3230,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_26.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_39.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2500,
+                                "width": 2523,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -3243,7 +3243,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/39#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/39#xywh=0,0,2523,3189"
                         }
                     ]
                 }
@@ -3275,7 +3275,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_32.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_40.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -3311,7 +3311,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_32.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_40.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -3356,7 +3356,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_24.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_41.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -3392,7 +3392,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_24.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_41.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -3437,7 +3437,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_30.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_42.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -3473,7 +3473,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_30.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_42.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -3518,7 +3518,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_18.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_43.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -3554,7 +3554,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_18.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_43.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -3599,7 +3599,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_19.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_44.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -3635,7 +3635,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_19.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_44.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -3663,8 +3663,8 @@
                     "Tel Aviv 1981 (page 45)"
                 ]
             },
-            "height": 3189,
-            "width": 2500,
+            "height": 2500,
+            "width": 3189,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -3680,10 +3680,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_31.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_45.jpg",
                     "type": "Image",
-                    "height": 128,
-                    "width": 100,
+                    "height": 100,
+                    "width": 128,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -3716,10 +3716,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_31.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_45.png",
                                 "type": "Image",
-                                "height": 3189,
-                                "width": 2500,
+                                "height": 2500,
+                                "width": 3189,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -3729,7 +3729,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/45#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/45#xywh=0,0,3189,2500"
                         }
                     ]
                 }
@@ -3744,8 +3744,8 @@
                     "Tel Aviv 1981 (page 46)"
                 ]
             },
-            "height": 3189,
-            "width": 2500,
+            "height": 2491,
+            "width": 3189,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -3761,10 +3761,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_25.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_46.jpg",
                     "type": "Image",
-                    "height": 128,
-                    "width": 100,
+                    "height": 100,
+                    "width": 128,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -3797,10 +3797,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_25.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_46.png",
                                 "type": "Image",
-                                "height": 3189,
-                                "width": 2500,
+                                "height": 2491,
+                                "width": 3189,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -3810,7 +3810,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/46#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/46#xywh=0,0,3189,2491"
                         }
                     ]
                 }
@@ -3842,7 +3842,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_42.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_47.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -3878,7 +3878,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_42.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_47.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -3923,7 +3923,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_56.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_48.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -3959,7 +3959,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_56.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_48.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4004,7 +4004,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_57.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_49.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4040,7 +4040,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_57.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_49.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4069,7 +4069,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2500,
+            "width": 2484,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -4085,7 +4085,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_43.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_50.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4121,10 +4121,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_43.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_50.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2500,
+                                "width": 2484,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -4134,7 +4134,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/50#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/50#xywh=0,0,2484,3189"
                         }
                     ]
                 }
@@ -4166,7 +4166,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_55.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_51.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4202,7 +4202,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_55.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_51.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4230,8 +4230,8 @@
                     "Tel Aviv 1981 (page 52)"
                 ]
             },
-            "height": 3189,
-            "width": 2500,
+            "height": 2500,
+            "width": 3189,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -4247,10 +4247,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_41.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_52.jpg",
                     "type": "Image",
-                    "height": 128,
-                    "width": 100,
+                    "height": 100,
+                    "width": 128,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -4283,10 +4283,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_41.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_52.png",
                                 "type": "Image",
-                                "height": 3189,
-                                "width": 2500,
+                                "height": 2500,
+                                "width": 3189,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -4296,7 +4296,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/52#xywh=0,0,2500,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/52#xywh=0,0,3189,2500"
                         }
                     ]
                 }
@@ -4328,7 +4328,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_40.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_53.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4364,7 +4364,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_40.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_53.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4474,7 +4474,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2484,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -4490,7 +4490,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_50.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_55.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4526,10 +4526,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_50.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_55.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2484,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -4539,7 +4539,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/55#xywh=0,0,2484,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/55#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -4571,7 +4571,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_44.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_56.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4607,7 +4607,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_44.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_56.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4635,8 +4635,8 @@
                     "Tel Aviv 1981 (page 57)"
                 ]
             },
-            "height": 2500,
-            "width": 3189,
+            "height": 3189,
+            "width": 2500,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -4652,10 +4652,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_45.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_57.jpg",
                     "type": "Image",
-                    "height": 100,
-                    "width": 128,
+                    "height": 128,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -4688,10 +4688,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_45.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_57.png",
                                 "type": "Image",
-                                "height": 2500,
-                                "width": 3189,
+                                "height": 3189,
+                                "width": 2500,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -4701,7 +4701,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/57#xywh=0,0,3189,2500"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/57#xywh=0,0,2500,3189"
                         }
                     ]
                 }
@@ -4733,7 +4733,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_51.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_58.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4769,7 +4769,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_51.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_58.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4814,7 +4814,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_47.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_59.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4850,7 +4850,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_47.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_59.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4895,7 +4895,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_53.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_60.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -4931,7 +4931,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_53.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_60.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -4976,7 +4976,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_9.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_61.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 100,
@@ -5012,7 +5012,7 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_9.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_61.png",
                                 "type": "Image",
                                 "height": 3189,
                                 "width": 2500,
@@ -5041,7 +5041,7 @@
                 ]
             },
             "height": 3189,
-            "width": 2523,
+            "width": 2493,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -5057,10 +5057,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_8.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_62.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 101,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -5093,10 +5093,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_8.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_62.png",
                                 "type": "Image",
                                 "height": 3189,
-                                "width": 2523,
+                                "width": 2493,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -5106,7 +5106,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/62#xywh=0,0,2523,3189"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/62#xywh=0,0,2493,3189"
                         }
                     ]
                 }
@@ -5121,8 +5121,8 @@
                     "Tel Aviv 1981 (page 63)"
                 ]
             },
-            "height": 2500,
-            "width": 3189,
+            "height": 3189,
+            "width": 2493,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -5138,10 +5138,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_52.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_63.jpg",
                     "type": "Image",
-                    "height": 100,
-                    "width": 128,
+                    "height": 128,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -5174,10 +5174,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_52.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_63.png",
                                 "type": "Image",
-                                "height": 2500,
-                                "width": 3189,
+                                "height": 3189,
+                                "width": 2493,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -5187,7 +5187,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/63#xywh=0,0,3189,2500"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/63#xywh=0,0,2493,3189"
                         }
                     ]
                 }
@@ -5202,8 +5202,8 @@
                     "Tel Aviv 1981 (page 64)"
                 ]
             },
-            "height": 2491,
-            "width": 3189,
+            "height": 3189,
+            "width": 2493,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -5219,10 +5219,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_46.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/thumbnails/TelAviv1981_page_64.jpg",
                     "type": "Image",
-                    "height": 100,
-                    "width": 128,
+                    "height": 128,
+                    "width": 100,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -5255,10 +5255,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_46.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/programmes/TelAviv1981/TelAviv1981_page_64.png",
                                 "type": "Image",
-                                "height": 2491,
-                                "width": 3189,
+                                "height": 3189,
+                                "width": 2493,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -5268,7 +5268,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/64#xywh=0,0,3189,2491"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/programmes/TelAviv1981/canvas/64#xywh=0,0,2493,3189"
                         }
                     ]
                 }

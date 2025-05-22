@@ -4,12 +4,12 @@ import os
 from PIL import Image
 import re
 
-SOURCE_FOLDER = "resources/imgs/programmes/Programme2008"
-MANIFEST_FILE_NAME = "Programme2008"
+SOURCE_FOLDER = "resources/imgs/programmes/TelAviv1981"
+MANIFEST_FILE_NAME = "TelAviv1981"
 MANIFEST_DATA = {
-    "name" : "Programme 2008",
+    "name" : "Tel Aviv 1981",
     "metadata" : [
-        {"label":{"en":["Year"]},"value":{"en":["2008"]}}
+        {"label":{"en":["Year"]},"value":{"en":["1981"]}}
     ],
     "logo" : {
         "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
