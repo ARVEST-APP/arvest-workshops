@@ -3,12 +3,12 @@ from jhutils.local_files import get_image_info, write_json, collect_files
 import os
 from PIL import Image
 
-SOURCE_FOLDER = "resources/imgs/programmes/Programme2023"
-MANIFEST_FILE_NAME = "Programme2023"
+SOURCE_FOLDER = "resources/imgs/programmes/Programme1985"
+MANIFEST_FILE_NAME = "Programme1985"
 MANIFEST_DATA = {
-    "name" : "Programme 2023",
+    "name" : "Programme 1985",
     "metadata" : [
-        {"label":{"en":["Year"]},"value":{"en":["2023"]}}
+        {"label":{"en":["Year"]},"value":{"en":["1985"]}}
     ],
     "logo" : {
         "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
@@ -54,7 +54,17 @@ for i, image_file in enumerate(image_files):
     if i == 0:
         first_thumb = f"{file_name}.jpg"
 thumb_info = get_image_info(os.path.join(os.getcwd(), SOURCE_FOLDER, "thumbnails", first_thumb))
-man.thumbnail = [{"id" : os.path.join(ID_PREFIX, SOURCE_FOLDER, "thumbnails", first_thumb), "type" : "Image", "format" : "image/jpg", "width" : thumb_info["width"], "height" : thumb_info["height"]}]
+
+
+
+__thumb_url = os.path.join(ID_PREFIX, SOURCE_FOLDER, "thumbnails", first_thumb)
+
+print()
+print(os.path.join(ID_PREFIX))
+print(__thumb_url)
+print()
+
+man.thumbnail = [{"id" : __thumb_url, "type" : "Image", "format" : "image/jpg", "width" : thumb_info["width"], "height" : thumb_info["height"]}]
 
 # Add pages:
 for i, image_file in enumerate(image_files):

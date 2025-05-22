@@ -1,8 +1,8 @@
 import os
 import fitz
 
-INPUT = "/Users/jacob/Downloads/wetransfer_avignon1995-pdf_2025-05-20_0742/Wellington2016.pdf"
-OUTPUT_DEST = os.path.join(os.getcwd(), "resources", "imgs", "Wellington2016")
+INPUT = "/Users/jacob/Desktop/Programme1985.pdf"
+OUTPUT_DEST = os.path.join(os.getcwd(), "resources", "imgs", "programmes", "Programme1985")
 
 def pdf_to_img(path, out, **kwargs):
     doc = fitz.open(path)
