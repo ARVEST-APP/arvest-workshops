@@ -1,0 +1,185 @@
+{
+    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/videos/scene_a_2022-2023_b.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Scene A (Café Müller, Pina Bausch) | La vilette Paris (2022-2023 season, Théâtre de la Ville, Paris) [B: 1:25-2:32]"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Year"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2022-2023"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Rennes 2 University"
+            ]
+        }
+    },
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": [
+        {
+            "id": "https://www.univ-rennes2.fr/",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Rennes 2 University"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://www.univ-rennes2.fr/",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "Rennes 2 University"
+                        ]
+                    },
+                    "format": "text/html",
+                    "language": null
+                }
+            ],
+            "logo": null,
+            "seeAlso": null
+        }
+    ],
+    "seeAlso": null,
+    "thumbnail": [
+        {
+            "id": "https://resource.arvest.app/2dd8ce026b03db1ef043be8aa1ba472d099a1502/thumbnail.webp",
+            "type": "Image",
+            "height": 200,
+            "width": 200,
+            "duration": null,
+            "language": null,
+            "rendering": null,
+            "service": null,
+            "format": "image/webp",
+            "label": null,
+            "thumbnail": null,
+            "annotations": null
+        }
+    ],
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/videos/scene_a_2022-2023_b/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Scene A (Café Müller, Pina Bausch) | La vilette Paris (2022-2023 season, Théâtre de la Ville, Paris) [B: 1:25-2:32]"
+                ]
+            },
+            "height": 1080,
+            "width": 1920,
+            "duration": 67.7,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://resource.arvest.app/2dd8ce026b03db1ef043be8aa1ba472d099a1502/thumbnail.webp",
+                    "type": "Image",
+                    "height": 200,
+                    "width": 200,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/webp",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/videos/scene_a_2022-2023_b/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/videos/scene_a_2022-2023_b/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://peertube.arvest.app/w/3nheAbsjXHxqHuGGw2xniA",
+                                "type": "Video",
+                                "height": 1080,
+                                "width": 1920,
+                                "duration": 67.7,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "video/MPG",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/videos/scene_a_2022-2023_b/canvas/1#xywh=0,0,1920,1080&t=0,67.7"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        }
+    ],
+    "structures": null,
+    "annotations": null,
+    "logo": {
+        "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 225,
+        "width": 225
+    }
+}
