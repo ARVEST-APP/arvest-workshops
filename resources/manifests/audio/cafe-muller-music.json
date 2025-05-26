@@ -1,0 +1,210 @@
+{
+    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Henry Purcell pieces"
+        ]
+    },
+    "context": null,
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Composer"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Henry Purcell"
+                ]
+            }
+        }
+    ],
+    "summary": null,
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Rennes 2 University"
+            ]
+        }
+    },
+    "rendering": null,
+    "service": null,
+    "services": null,
+    "viewingDirection": null,
+    "placeholderCanvas": null,
+    "accompanyingCanvas": null,
+    "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "start": null,
+    "navDate": null,
+    "navPlace": null,
+    "provider": [
+        {
+            "id": "https://www.univ-rennes2.fr/",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Rennes 2 University"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://www.univ-rennes2.fr/",
+                    "type": "Text",
+                    "label": {
+                        "en": [
+                            "Rennes 2 University"
+                        ]
+                    },
+                    "format": "text/html",
+                    "language": null
+                }
+            ],
+            "logo": null,
+            "seeAlso": null
+        }
+    ],
+    "seeAlso": null,
+    "thumbnail": [
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/purcell.jpeg",
+            "type": "Image",
+            "height": 200,
+            "width": 252,
+            "duration": null,
+            "language": null,
+            "rendering": null,
+            "service": null,
+            "format": "image/jpg",
+            "label": null,
+            "thumbnail": null,
+            "annotations": null
+        }
+    ],
+    "homepage": null,
+    "behavior": null,
+    "partOf": null,
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "O Let Me Weep"
+                ]
+            },
+            "height": null,
+            "width": null,
+            "duration": 356,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Year"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1692"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Opera"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "The Fairy Queen"
+                        ]
+                    }
+                }
+            ],
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/purcell.jpeg",
+                    "type": "Image",
+                    "height": 200,
+                    "width": 252,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/1/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/1/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/audio/o-let-me-weep.wav",
+                                "type": "Sound",
+                                "height": null,
+                                "width": null,
+                                "duration": 356,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "audio/wav",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/1#t=0,356"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        }
+    ],
+    "structures": null,
+    "annotations": null,
+    "logo": {
+        "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/rennes2-logo.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 225,
+        "width": 225
+    }
+}
