@@ -196,6 +196,112 @@
                 }
             ],
             "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "When I am Laid to Earth"
+                ]
+            },
+            "height": null,
+            "width": null,
+            "duration": 289,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Year"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "1689"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Opera"
+                        ]
+                    },
+                    "value": {
+                        "en": [
+                            "Dido and Æneas"
+                        ]
+                    }
+                }
+            ],
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/purcell.jpeg",
+                    "type": "Image",
+                    "height": 200,
+                    "width": 252,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/audio/when-i-am-laid-to-earth.wav",
+                                "type": "Sound",
+                                "height": null,
+                                "width": null,
+                                "duration": 289,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "audio/wav",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/manifests/audio/cafe-muller-music/canvas/2#t=0,289"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
         }
     ],
     "structures": null,
