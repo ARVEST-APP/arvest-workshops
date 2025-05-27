@@ -1,4 +1,4 @@
-# API Resources
+# 💻 API Resources
 
 ## Links
 - [API Swagger documentation](https://api.arvest.app/api)

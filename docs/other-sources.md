@@ -1,9 +1,5 @@
 # Other sources
 
-## Local media sources
-
-Download [here](https://github.com/ARVEST-APP/arvest-workshops/raw/main/resources/workshop-dl-media.zip)
-
 ## Programmes
 - Generals: [https://gallica.bnf.fr/ark:/12148/btv1b550143172.r=programme%20festival%20d%27avignon%201995?rk=21459;2](https://gallica.bnf.fr/ark:/12148/btv1b550143172.r=programme%20festival%20d%27avignon%201995?rk=21459;2)
 

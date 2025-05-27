@@ -19,3 +19,5 @@ You can find the slides to the workshop in the slides folder [here](/slides/).
 ## 🗂️ Resources
 
 In the [resources folder](/resources/) we host a number of media files and data as examples for workshops.
+
+Follow the workshop's **notebook** [here](https://colab.research.google.com/github/ARVEST-APP/ml-notebooks/blob/main/_colab/workflows/distant-viewing/03-Video-Decomposition-Clustering/03-Video-Decomposition-Clustering.ipynb).
