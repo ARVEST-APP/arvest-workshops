@@ -4,6 +4,8 @@ Resources for various Arvest Workshops.
 
 Find out more and connect to Arvest here: [https://arvest.app/](https://arvest.app/).
 
+## Follow the workshop's **notebook** [here](https://colab.research.google.com/github/ARVEST-APP/ml-notebooks/blob/main/_colab/workflows/distant-viewing/03-Video-Decomposition-Clustering/03-Video-Decomposition-Clustering.ipynb).
+
 ## 🕰️ Workshop prerequisites
 
 Are you going to participate in an Arvest workshop? To make the most of our time together, please take a look at these [workshop prerequisites](/docs/workshop-prerequisites.md) to see how you can prepare before you arrive.

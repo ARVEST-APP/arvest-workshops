@@ -1,3 +1,4 @@
 scripts/__pycache__
 *.DS_Store
 venv
+scripts/est_user_accounts/test_user_accounts.json
