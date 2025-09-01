@@ -73,10 +73,10 @@
     "seeAlso": null,
     "thumbnail": [
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_010_FDA1977.jpg",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_001_FDA1977.jpg",
             "type": "Image",
-            "height": 90,
-            "width": 128,
+            "height": 128,
+            "width": 89,
             "duration": null,
             "language": null,
             "rendering": null,
@@ -93,492 +93,6 @@
     "items": [
         {
             "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/1",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 2006,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_010_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 90,
-                    "width": 128,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/1/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/1/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_010_FDA1977.png",
-                                "type": "Image",
-                                "height": 2006,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/1#xywh=0,0,2845,2006"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 3989,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_005_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_005_FDA1977.png",
-                                "type": "Image",
-                                "height": 3989,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2#xywh=0,0,2845,3989"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 1995,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_009_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 90,
-                    "width": 128,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_009_FDA1977.png",
-                                "type": "Image",
-                                "height": 1995,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3#xywh=0,0,2845,1995"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 3989,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_003_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_003_FDA1977.png",
-                                "type": "Image",
-                                "height": 3989,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4#xywh=0,0,2845,3989"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 3989,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_006_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_006_FDA1977.png",
-                                "type": "Image",
-                                "height": 3989,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5#xywh=0,0,2845,3989"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 4023,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_008_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_008_FDA1977.png",
-                                "type": "Image",
-                                "height": 4023,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6#xywh=0,0,2845,4023"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -621,7 +135,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/1/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -630,7 +144,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/1/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -651,7 +165,493 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7#xywh=0,0,2845,4087"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/1#xywh=0,0,2845,4087"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 128,
+            "width": 89,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_001_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 89,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_001_FDA1977.jpg",
+                                "type": "Image",
+                                "height": 128,
+                                "width": 89,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/2#xywh=0,0,89,128"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 3989,
+            "width": 2845,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_002_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 91,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_002_FDA1977.png",
+                                "type": "Image",
+                                "height": 3989,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/3#xywh=0,0,2845,3989"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 128,
+            "width": 91,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_002_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 91,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_002_FDA1977.jpg",
+                                "type": "Image",
+                                "height": 128,
+                                "width": 91,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/4#xywh=0,0,91,128"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 3989,
+            "width": 2845,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_003_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 91,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_003_FDA1977.png",
+                                "type": "Image",
+                                "height": 3989,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/5#xywh=0,0,2845,3989"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 128,
+            "width": 91,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_003_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 91,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_003_FDA1977.jpg",
+                                "type": "Image",
+                                "height": 128,
+                                "width": 91,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/6#xywh=0,0,91,128"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 3970,
+            "width": 2845,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_004_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 92,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_004_FDA1977.png",
+                                "type": "Image",
+                                "height": 3970,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/7#xywh=0,0,2845,3970"
                         }
                     ]
                 }
@@ -666,8 +666,8 @@
                     "Festival d'avignon programme from 1977"
                 ]
             },
-            "height": 3970,
-            "width": 2845,
+            "height": 128,
+            "width": 92,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -719,10 +719,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_004_FDA1977.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_004_FDA1977.jpg",
                                 "type": "Image",
-                                "height": 3970,
-                                "width": 2845,
+                                "height": 128,
+                                "width": 92,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -732,7 +732,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/8#xywh=0,0,2845,3970"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/8#xywh=0,0,92,128"
                         }
                     ]
                 }
@@ -747,7 +747,7 @@
                     "Festival d'avignon programme from 1977"
                 ]
             },
-            "height": 5795,
+            "height": 3989,
             "width": 2845,
             "duration": null,
             "metadata": null,
@@ -764,10 +764,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_011_FDA1977.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_005_FDA1977.jpg",
                     "type": "Image",
                     "height": 128,
-                    "width": 63,
+                    "width": 91,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -800,9 +800,9 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_011_FDA1977.png",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_005_FDA1977.png",
                                 "type": "Image",
-                                "height": 5795,
+                                "height": 3989,
                                 "width": 2845,
                                 "duration": null,
                                 "language": null,
@@ -813,7 +813,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/9#xywh=0,0,2845,5795"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/9#xywh=0,0,2845,3989"
                         }
                     ]
                 }
@@ -822,330 +822,6 @@
         },
         {
             "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/10",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 5795,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_012_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 63,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/10/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/10/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_012_FDA1977.png",
-                                "type": "Image",
-                                "height": 5795,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/10#xywh=0,0,2845,5795"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 3989,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_007_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_007_FDA1977.png",
-                                "type": "Image",
-                                "height": 3989,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11#xywh=0,0,2845,3989"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 3989,
-            "width": 2845,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_002_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_002_FDA1977.png",
-                                "type": "Image",
-                                "height": 3989,
-                                "width": 2845,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12#xywh=0,0,2845,3989"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 90,
-            "width": 128,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_010_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 90,
-                    "width": 128,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_010_FDA1977.jpg",
-                                "type": "Image",
-                                "height": 90,
-                                "width": 128,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13#xywh=0,0,128,90"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -1188,7 +864,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/10/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -1197,7 +873,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/10/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -1218,7 +894,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14#xywh=0,0,91,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/10#xywh=0,0,91,128"
                         }
                     ]
                 }
@@ -1226,15 +902,15 @@
             "annotations": null
         },
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11",
             "type": "Canvas",
             "label": {
                 "en": [
                     "Festival d'avignon programme from 1977"
                 ]
             },
-            "height": 90,
-            "width": 128,
+            "height": 3989,
+            "width": 2845,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1250,88 +926,7 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_009_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 90,
-                    "width": 128,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_009_FDA1977.jpg",
-                                "type": "Image",
-                                "height": 90,
-                                "width": 128,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15#xywh=0,0,128,90"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 128,
-            "width": 91,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_003_FDA1977.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_006_FDA1977.jpg",
                     "type": "Image",
                     "height": 128,
                     "width": 91,
@@ -1350,7 +945,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -1359,7 +954,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -1367,10 +962,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_003_FDA1977.jpg",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_006_FDA1977.png",
                                 "type": "Image",
-                                "height": 128,
-                                "width": 91,
+                                "height": 3989,
+                                "width": 2845,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -1380,7 +975,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16#xywh=0,0,91,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/11#xywh=0,0,2845,3989"
                         }
                     ]
                 }
@@ -1388,7 +983,7 @@
             "annotations": null
         },
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -1431,7 +1026,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -1440,7 +1035,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -1461,7 +1056,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17#xywh=0,0,91,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/12#xywh=0,0,91,128"
                         }
                     ]
                 }
@@ -1469,7 +1064,250 @@
             "annotations": null
         },
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 3989,
+            "width": 2845,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_007_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 91,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_007_FDA1977.png",
+                                "type": "Image",
+                                "height": 3989,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/13#xywh=0,0,2845,3989"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 128,
+            "width": 91,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_007_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 91,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_007_FDA1977.jpg",
+                                "type": "Image",
+                                "height": 128,
+                                "width": 91,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/14#xywh=0,0,91,128"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 4023,
+            "width": 2845,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_008_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 91,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_008_FDA1977.png",
+                                "type": "Image",
+                                "height": 4023,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/15#xywh=0,0,2845,4023"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -1512,7 +1350,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -1521,7 +1359,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -1542,7 +1380,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18#xywh=0,0,91,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/16#xywh=0,0,91,128"
                         }
                     ]
                 }
@@ -1550,15 +1388,15 @@
             "annotations": null
         },
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/19",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17",
             "type": "Canvas",
             "label": {
                 "en": [
                     "Festival d'avignon programme from 1977"
                 ]
             },
-            "height": 128,
-            "width": 89,
+            "height": 1995,
+            "width": 2845,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1574,10 +1412,172 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_001_FDA1977.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_009_FDA1977.jpg",
                     "type": "Image",
-                    "height": 128,
-                    "width": 89,
+                    "height": 90,
+                    "width": 128,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_009_FDA1977.png",
+                                "type": "Image",
+                                "height": 1995,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/17#xywh=0,0,2845,1995"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 90,
+            "width": 128,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_009_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 90,
+                    "width": 128,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_009_FDA1977.jpg",
+                                "type": "Image",
+                                "height": 90,
+                                "width": 128,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/18#xywh=0,0,128,90"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/19",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 2006,
+            "width": 2845,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_010_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 90,
+                    "width": 128,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -1610,10 +1610,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_001_FDA1977.jpg",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_010_FDA1977.png",
                                 "type": "Image",
-                                "height": 128,
-                                "width": 89,
+                                "height": 2006,
+                                "width": 2845,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -1623,7 +1623,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/19#xywh=0,0,89,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/19#xywh=0,0,2845,2006"
                         }
                     ]
                 }
@@ -1638,8 +1638,8 @@
                     "Festival d'avignon programme from 1977"
                 ]
             },
-            "height": 128,
-            "width": 92,
+            "height": 90,
+            "width": 128,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1655,10 +1655,10 @@
             "accompanyingCanvas": null,
             "thumbnail": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_004_FDA1977.jpg",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_010_FDA1977.jpg",
                     "type": "Image",
-                    "height": 128,
-                    "width": 92,
+                    "height": 90,
+                    "width": 128,
                     "duration": null,
                     "language": null,
                     "rendering": null,
@@ -1691,10 +1691,10 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_004_FDA1977.jpg",
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_010_FDA1977.jpg",
                                 "type": "Image",
-                                "height": 128,
-                                "width": 92,
+                                "height": 90,
+                                "width": 128,
                                 "duration": null,
                                 "language": null,
                                 "rendering": null,
@@ -1704,7 +1704,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/20#xywh=0,0,92,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/20#xywh=0,0,128,90"
                         }
                     ]
                 }
@@ -1719,8 +1719,8 @@
                     "Festival d'avignon programme from 1977"
                 ]
             },
-            "height": 128,
-            "width": 63,
+            "height": 5795,
+            "width": 2845,
             "duration": null,
             "metadata": null,
             "summary": null,
@@ -1772,6 +1772,87 @@
                             "thumbnail": null,
                             "motivation": "painting",
                             "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_011_FDA1977.png",
+                                "type": "Image",
+                                "height": 5795,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/21#xywh=0,0,2845,5795"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 128,
+            "width": 63,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_011_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 63,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
                                 "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_011_FDA1977.jpg",
                                 "type": "Image",
                                 "height": 128,
@@ -1785,7 +1866,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/21#xywh=0,0,63,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22#xywh=0,0,63,128"
                         }
                     ]
                 }
@@ -1793,7 +1874,88 @@
             "annotations": null
         },
         {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22",
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Festival d'avignon programme from 1977"
+                ]
+            },
+            "height": 5795,
+            "width": 2845,
+            "duration": null,
+            "metadata": null,
+            "summary": null,
+            "requiredStatement": null,
+            "rendering": null,
+            "rights": null,
+            "navDate": null,
+            "navPlace": null,
+            "provider": null,
+            "seeAlso": null,
+            "service": null,
+            "placeholderCanvas": null,
+            "accompanyingCanvas": null,
+            "thumbnail": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_012_FDA1977.jpg",
+                    "type": "Image",
+                    "height": 128,
+                    "width": 63,
+                    "duration": null,
+                    "language": null,
+                    "rendering": null,
+                    "service": null,
+                    "format": "image/jpg",
+                    "label": null,
+                    "thumbnail": null,
+                    "annotations": null
+                }
+            ],
+            "homepage": null,
+            "behavior": null,
+            "partOf": null,
+            "items": [
+                {
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23/page/1",
+                    "type": "AnnotationPage",
+                    "label": null,
+                    "context": null,
+                    "rendering": null,
+                    "service": null,
+                    "thumbnail": null,
+                    "items": [
+                        {
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23/page/1/1",
+                            "type": "Annotation",
+                            "label": null,
+                            "service": null,
+                            "rendering": null,
+                            "thumbnail": null,
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_012_FDA1977.png",
+                                "type": "Image",
+                                "height": 5795,
+                                "width": 2845,
+                                "duration": null,
+                                "language": null,
+                                "rendering": null,
+                                "service": null,
+                                "format": "image/png",
+                                "label": null,
+                                "thumbnail": null,
+                                "annotations": null
+                            },
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23#xywh=0,0,2845,5795"
+                        }
+                    ]
+                }
+            ],
+            "annotations": null
+        },
+        {
+            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -1836,7 +1998,7 @@
             "partOf": null,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22/page/1",
+                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24/page/1",
                     "type": "AnnotationPage",
                     "label": null,
                     "context": null,
@@ -1845,7 +2007,7 @@
                     "thumbnail": null,
                     "items": [
                         {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22/page/1/1",
+                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24/page/1/1",
                             "type": "Annotation",
                             "label": null,
                             "service": null,
@@ -1866,169 +2028,7 @@
                                 "thumbnail": null,
                                 "annotations": null
                             },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/22#xywh=0,0,63,128"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 128,
-            "width": 91,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_007_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_007_FDA1977.jpg",
-                                "type": "Image",
-                                "height": 128,
-                                "width": 91,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/23#xywh=0,0,91,128"
-                        }
-                    ]
-                }
-            ],
-            "annotations": null
-        },
-        {
-            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24",
-            "type": "Canvas",
-            "label": {
-                "en": [
-                    "Festival d'avignon programme from 1977"
-                ]
-            },
-            "height": 128,
-            "width": 91,
-            "duration": null,
-            "metadata": null,
-            "summary": null,
-            "requiredStatement": null,
-            "rendering": null,
-            "rights": null,
-            "navDate": null,
-            "navPlace": null,
-            "provider": null,
-            "seeAlso": null,
-            "service": null,
-            "placeholderCanvas": null,
-            "accompanyingCanvas": null,
-            "thumbnail": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/thumbnails/page_002_FDA1977.jpg",
-                    "type": "Image",
-                    "height": 128,
-                    "width": 91,
-                    "duration": null,
-                    "language": null,
-                    "rendering": null,
-                    "service": null,
-                    "format": "image/jpg",
-                    "label": null,
-                    "thumbnail": null,
-                    "annotations": null
-                }
-            ],
-            "homepage": null,
-            "behavior": null,
-            "partOf": null,
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24/page/1",
-                    "type": "AnnotationPage",
-                    "label": null,
-                    "context": null,
-                    "rendering": null,
-                    "service": null,
-                    "thumbnail": null,
-                    "items": [
-                        {
-                            "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24/page/1/1",
-                            "type": "Annotation",
-                            "label": null,
-                            "service": null,
-                            "rendering": null,
-                            "thumbnail": null,
-                            "motivation": "painting",
-                            "body": {
-                                "id": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/imgs/dracor/progs/Gallica_prog_FDA1977/page_002_FDA1977.jpg",
-                                "type": "Image",
-                                "height": 128,
-                                "width": 91,
-                                "duration": null,
-                                "language": null,
-                                "rendering": null,
-                                "service": null,
-                                "format": "image/png",
-                                "label": null,
-                                "thumbnail": null,
-                                "annotations": null
-                            },
-                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24#xywh=0,0,91,128"
+                            "target": "https://raw.githubusercontent.com/ARVEST-APP/arvest-workshops/refs/heads/main/resources/resources/manifests/dracor/progs/1977/canvas/24#xywh=0,0,63,128"
                         }
                     ]
                 }
